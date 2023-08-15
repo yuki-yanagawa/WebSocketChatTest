@@ -10,3 +10,6 @@ GETリクエストのみ対応しております。
 htmlファイルはhtmlフォルダへ、
 jsファイルはjavascriptフォルダへ、
 cssファイルはcssフォルダへ格納お願い致します。
+
+### Qiitaページ ###
+https://qiita.com/yuki-yanagawa/items/86079d67059adbb9ce0e
